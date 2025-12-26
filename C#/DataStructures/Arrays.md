@@ -5,8 +5,7 @@
 **Answer** :
 
 An array in .NET is a data structure that stores a **fixed-size sequential collection** of elements of
-the **same type**. Arrays in .NET are zero-indexed, and they can be declared using square brackets
-[]
+the **same type**. Arrays in .NET are zero-indexed, and they can be declared using square brackets []
 
 ```Csharp
     // Example : Declaring and initializing an array
